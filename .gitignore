@@ -1,0 +1,9 @@
+*~
+/fish/completions/
+/fish/conf.d/
+/fish/functions/
+/fish/fish_colors
+/fish/fish_varables
+/fish/fishd.localhost
+/fish/fishfile
+/fisherman/
